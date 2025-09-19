@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "757470972965",
+    "project_id": "mini-ecommerce-ce1d8",
+    "storage_bucket": "mini-ecommerce-ce1d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757470972965:android:bcee3924624888e4e403cc",
+        "android_client_info": {
+          "package_name": "com.example.miniecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757470972965-1u93beb3l6099vujetd708f99lcjvas2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU4JXvwmwKFNX0QhzrzjDq3z3vlv4oJlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757470972965-1u93beb3l6099vujetd708f99lcjvas2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757470972965-gqvb0s1bg22te8abqv2f03og06na3qha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miniecommerceapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757470972965:android:1182cc1b98fa54eae403cc",
+        "android_client_info": {
+          "package_name": "com.zaid.minishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757470972965-f44srgdbg736c618vcvlae2ebn9ivkhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaid.minishop",
+            "certificate_hash": "ba89d9ef0a9ccca43d30889c0e7e9b42a8f03b6a"
+          }
+        },
+        {
+          "client_id": "757470972965-1u93beb3l6099vujetd708f99lcjvas2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU4JXvwmwKFNX0QhzrzjDq3z3vlv4oJlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757470972965-1u93beb3l6099vujetd708f99lcjvas2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757470972965-gqvb0s1bg22te8abqv2f03og06na3qha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miniecommerceapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
