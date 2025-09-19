@@ -145,31 +145,31 @@ flutter run --release
 ### Authentication
 <div style="display: flex; gap: 20px;">
     <!-- First Image -->
-    <img src="https://github.com/user-attachments/assets/90fb856a-17a8-4e17-9171-fc374b889491" alt="Screenshot 1"
+    <img src="https://github.com/user-attachments/assets/0431f3c5-124b-48c3-887f-91d4fbac38eb" alt="Screenshot 1"
          style="border: 3px solid black; border-radius: 15px; width: 300px;">
-    <img src="https://github.com/user-attachments/assets/3508ba0e-0c99-4d95-aa13-f5b0cc4719b5" alt="Screenshot 2"
+    <img src="https://github.com/user-attachments/assets/fed04a64-9ccd-4abe-97ae-2e67616fc575" alt="Screenshot 2"
          style="border: 3px solid black; border-radius: 15px; width: 300px;">
   </div>
 
 ### Product Management
 <div style="display: flex; gap: 20px;">
     <!-- First Image -->
-    <img src="https://github.com/user-attachments/assets/7cb637b6-3287-451a-8ed7-87a6f9ebf9e5" alt="Screenshot 1"
+    <img src="https://github.com/user-attachments/assets/7e942f07-b313-46da-97d4-5a7dddd4cbf9" alt="Screenshot 1"
          style="border: 3px solid black; border-radius: 15px; width: 300px;">
-    <img src="https://github.com/user-attachments/assets/d97d42bd-c22d-4132-a6ad-a05ec9767dd0" alt="Screenshot 2"
+    <img src="https://github.com/user-attachments/assets/2f7f2909-9ffe-4cdb-8c4c-005daa36ce74" alt="Screenshot 2"
          style="border: 3px solid black; border-radius: 15px; width: 300px;">
   </div>
 ### Shopping Cart
 <div style="display: flex; gap: 20px;">
     <!-- First Image -->
-    <img src="https://github.com/user-attachments/assets/32650d4b-852c-4d63-a4ac-f47de87aae37" alt="Screenshot 1"
+    <img src="https://github.com/user-attachments/assets/f2c9180f-7979-442d-a98f-d0e6f462a09c" alt="Screenshot 1"
          style="border: 3px solid black; border-radius: 15px; width: 300px;">
 
   </div>
 ### User Profile
 <div style="display: flex; gap: 20px;">
     <!-- First Image -->
-    <img src="https://github.com/user-attachments/assets/d0423e16-3995-4688-bc90-cc3251f0de73" alt="Screenshot 1"
+    <img src="https://github.com/user-attachments/assets/f851d405-75dd-464f-9e0d-5eed746cb8fd" alt="Screenshot 1"
          style="border: 3px solid black; border-radius: 15px; width: 300px;">
 
   </div>
@@ -177,10 +177,11 @@ flutter run --release
 ### Payment
 <div style="display: flex; gap: 20px;">
     <!-- First Image -->
-    <img src="https://github.com/user-attachments/assets/191b7ab5-f35e-4404-b174-ae52ce5dbdc7" alt="Screenshot 1"
+    <img src="https://github.com/user-attachments/assets/3cc3bc81-e056-4c81-b1e8-b7edf01dde28" alt="Screenshot 1"
          style="border: 3px solid black; border-radius: 15px; width: 300px;">
 
   </div>
+
   
 ## 🛠️ Technologies Used
 
